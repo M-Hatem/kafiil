@@ -20,6 +20,6 @@ document.addEventListener("DOMContentLoaded", () => {
   window.selectAddOn = functions.selectAddOn;
   window.selectAllAddOns = functions.selectAllAddOns;
   window.addComment = functions.addComment;
-});
 
-render();
+  render();
+});
