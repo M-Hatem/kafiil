@@ -1,0 +1,16 @@
+/* Variables */
+:root {
+  --primary-100: #e9f9f1;
+  --primary-900: #1dbf73;
+  --gray-50: #f6f6f6;
+  --gray-100: #f2f2f2;
+  --gray-200: #e6eaef;
+  --gray-300: #c3c5c8;
+  --gray-400: #8692a6;
+  --gray-500: #696f79;
+  --gray-700: #4f4f4f;
+  --gray-800: #333333;
+  --gray-900: #1e1e1e;
+  --error-300: #f56342;
+  --warning-300: #ffcb31;
+}
